@@ -36,16 +36,23 @@ PROCEDURE:
 
 CIRCUIT DIAGRAMS
 
-Half wave rectifier with filter:
+Half wave rectifier Model Graph, tabulation, Circuit Diagram:
+<img width="534" height="695" alt="Screenshot 2026-06-03 191521" src="https://github.com/user-attachments/assets/61e296b9-90c6-47ab-a8f7-768714535573" />
 
-Bridge rectifier with filter:
+Full Wave rectifier Model Graph, tabulation, Circuit Diagram:
+![Uploading Screenshot 2026-06-03 191619.png…]()
 
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+Half Wave Rectifier Graph:
 
-WAVEFORM:
+![Uploading Screenshot 2026-06-03 191756.png…]()
+
+Full Wave Rectifier Graph:
+
+![Uploading Screenshot 2026-06-03 191843.png…]()
+
+
+
+
 
 
 RESULT:
