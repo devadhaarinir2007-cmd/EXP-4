@@ -40,20 +40,32 @@ Half wave rectifier Model Graph, tabulation, Circuit Diagram:
 <img width="534" height="695" alt="Screenshot 2026-06-03 191521" src="https://github.com/user-attachments/assets/61e296b9-90c6-47ab-a8f7-768714535573" />
 
 Full Wave rectifier Model Graph, tabulation, Circuit Diagram:
-![Uploading Screenshot 2026-06-03 191619.png…]()
+<img width="508" height="696" alt="Screenshot 2026-06-03 191619" src="https://github.com/user-attachments/assets/2d29fea3-f27a-4f2d-9788-80c72c16f198" />
+
 
 Half Wave Rectifier Graph:
-
-![Uploading Screenshot 2026-06-03 191756.png…]()
+<img width="519" height="692" alt="half wave graph" src="https://github.com/user-attachments/assets/ca2d5ede-ad9a-47a7-b2f8-fc0f3e04d481" />
 
 Full Wave Rectifier Graph:
 
-![Uploading Screenshot 2026-06-03 191843.png…]()
+<img width="536" height="707" alt="full wave graph" src="https://github.com/user-attachments/assets/27f49d3b-b37f-4d80-ae4a-0748530dc446" />
+
+Half wave with filter:
+<img width="1036" height="591" alt="half  wave with filter" src="https://github.com/user-attachments/assets/7b69e11b-0d71-4ed8-a0ee-5e331edfa55b" />
+<img width="506" height="330" alt="Screenshot 2026-06-03 200824" src="https://github.com/user-attachments/assets/2a48fb7b-1484-41e6-b9b1-2e7903c2108f" />
+
+Half wave without filter:
+<img width="968" height="737" alt="half wave without filter" src="https://github.com/user-attachments/assets/db3fb76e-6b6d-4f2c-bf36-8a4ae460b4d7" />
+<img width="1048" height="663" alt="half without filter digital" src="https://github.com/user-attachments/assets/a9f236fb-6b09-48b9-b3c0-a7881d5d467e" />
+
+Full wave with filter:
+<img width="1024" height="667" alt="full wave with" src="https://github.com/user-attachments/assets/e3da5944-3108-460c-aa2c-eb24a3ef9b2c" />
+<img width="650" height="412" alt="Screenshot 2026-06-03 201310" src="https://github.com/user-attachments/assets/fecf66e5-ac2e-4dea-8250-3e92f062f3a5" />
 
 
-
-
-
+Full wave without filter:
+<img width="1024" height="667" alt="full wave without" src="https://github.com/user-attachments/assets/b3e6ff68-4242-4f3a-85e0-224d167163a6" />
+<img width="506" height="325" alt="Screenshot 2026-06-03 201431" src="https://github.com/user-attachments/assets/ee5dc394-d38a-4531-9ad7-97ff10d55788" />
 
 RESULT:
 
